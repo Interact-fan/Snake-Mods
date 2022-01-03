@@ -4,7 +4,7 @@ window.snake.more_menu = function(e) {
 
   // yeetbullet (blue)
   img = new Image;
-  img.src = 'https://github.com/carlgustavh/GoogleSnakeCustomMenuStuffImages/blob/main/Blue%20Bullet.png?raw=true';
+  img.src = 'https://github.com/Interact-fan/Snake-Mods/blob/main/canvas%20(1).png';
   img.width = 47;
   img.height = 47;
   img.class = 'DqMRee SsAred';
